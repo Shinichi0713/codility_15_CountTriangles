@@ -1,0 +1,1 @@
+# codility_15_CountTriangles
